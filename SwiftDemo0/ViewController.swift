@@ -15,6 +15,13 @@ class ViewController: UIViewController {
         // 提交代码测试
         
         // 改了点东西
+        
+        
+    }
+    
+    // 添加了个方法
+    func addFun() {
+        
     }
 }
 
