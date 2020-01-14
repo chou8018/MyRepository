@@ -28,5 +28,10 @@ class ViewController: UIViewController {
     func addFun2() {
         
     }
+    
+    // 又又添加了一个方法
+      func addFun3() {
+          
+      }
 }
 
