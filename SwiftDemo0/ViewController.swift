@@ -28,5 +28,10 @@ class ViewController: UIViewController {
     func addFun2() {
         
     }
+    
+    // release-1.0.0
+    func addFun3() {
+        
+    }
 }
 
