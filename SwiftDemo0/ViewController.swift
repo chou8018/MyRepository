@@ -33,6 +33,12 @@ class ViewController: UIViewController {
     func addFun3() {
         
     }
+    
+    // release-1.0.1
+      func addFun5() {
+          
+      }
+    
     // 又又添加了一个方法
       func addFun4() {
           
