@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     
     // 添加了个方法
     func addFun() {
-        
+        // 这是分支2
     }
     
     // 又添加了一个方法
@@ -33,5 +33,9 @@ class ViewController: UIViewController {
     func addFun3() {
         
     }
+    // 又又添加了一个方法
+      func addFun4() {
+          
+      }
 }
 
