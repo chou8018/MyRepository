@@ -42,5 +42,10 @@ class ViewController: UIViewController {
     func addFun5(){
         
     }
+    
+    // 我在试一下
+    func addFun6(){
+        
+    }
 }
 
