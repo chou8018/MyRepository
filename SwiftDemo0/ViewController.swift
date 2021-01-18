@@ -37,5 +37,10 @@ class ViewController: UIViewController {
       func addFun4() {
           
       }
+    
+    // 测试回滚
+    func addFun5(){
+        
+    }
 }
 
